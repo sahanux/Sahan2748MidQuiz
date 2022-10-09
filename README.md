@@ -1,2 +1,2 @@
-# Sahan2748MidQuiz
-Web and App Development Frameworks Mid Quiz
+Name: Sahan Akalanka
+Date: 09th Oct 2022
