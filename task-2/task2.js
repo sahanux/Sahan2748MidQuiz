@@ -7,7 +7,7 @@ movies.push("dasfads");
 movies.push("Ironman");
 
 var forthArrayVal = movies[3];
-if (forthArrayVal.charAt(0) == "I") {
+if (forthArrayVal.charAt(0) === "I") {
 
     console.log("Yay");
     
